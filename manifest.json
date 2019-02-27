@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "iFarse",
+  "version": "0.1",
+  "background": {
+    "scripts": ["content.js"]
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/icon.png" //Icon path
+    
+  },
+
+	
+  "content_scripts": [
+    {
+		"matches": ["https://ipark.iress.co.uk/"],
+		"css" : ["yourcss.css"],
+		"js": ["content.js"]	
+		
+      
+        
+    }
+  ]
+}
