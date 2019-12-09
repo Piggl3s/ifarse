@@ -1,9 +1,11 @@
 "# ifarse"
 
-Created due to being unable to book a Parking spott most days at my place of work
-A Parking first come first served site was created.
+Created due to being unable to book a Parking spot most days at my place of work
+A Parking app first come first served site was created.
 
 This Exploits a Vulrability I found in the date picker and changes the Parkign status to one of a 'Preffered User Status'
+
+To use
 
 Just Download and within Chrome settings - Extensions, Load unpacked and navigate to folder.
 This will then load the Extension, With a small wheel in the top right of the Browser.
