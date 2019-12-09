@@ -1,10 +1,24 @@
 body {   
-    background-color:#BAB4B3 !important;
+    background: url('https://i.pinimg.com/originals/4a/96/e6/4a96e602750b8ef669a77565becf3939.gif') !important;
+    color: #f12323 !important;
 }
 
 .highlight {
-    background-color:orange !important;
+    background-color:rgb(252, 2, 210) !important;
 }
+
+.navbar-brand {
+    color: #3dac21 !important;
+}
+
+.navbar-inverse{
+    background-color:rgb(252, 2, 210) !important;
+}
+
+h1 {
+    color: #3dac21 !important;
+}
+
 
 
 
