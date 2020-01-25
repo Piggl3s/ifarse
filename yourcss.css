@@ -1,24 +1,4 @@
-body {   
-    background: url('https://i.pinimg.com/originals/4a/96/e6/4a96e602750b8ef669a77565becf3939.gif') !important;
-    color: #f12323 !important;
+div.zabuto_calendar .table td[currparkingstatus='1'] div {
+    background: repeating-linear-gradient(-55deg,#fff,#fff 1pt,#fff 4pt,#fff 5px) !important;
+    border: 1pt solid #87ceeb;
 }
-
-.highlight {
-    background-color:rgb(252, 2, 210) !important;
-}
-
-.navbar-brand {
-    color: #3dac21 !important;
-}
-
-.navbar-inverse{
-    background-color:rgb(252, 2, 210) !important;
-}
-
-h1 {
-    color: #3dac21 !important;
-}
-
-
-
-
